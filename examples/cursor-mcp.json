@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "rep-ai": {
+      "url": "https://mcp.hellorep.ai/mcp/v1"
+    }
+  }
+}
